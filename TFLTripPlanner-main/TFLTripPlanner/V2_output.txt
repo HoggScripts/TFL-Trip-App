@@ -1,0 +1,16 @@
+Route: MARBLE ARCH to GREAT PORTLAND STREET:
+(1) MARBLE ARCH (Line: Central  Eastbound)
+(2) BOND STREET (Line: Central  Eastbound) 1.25
+(3) BOND STREET (Line: Change: Central  Eastbound to Jubilee  (Westbound) 2.00 mins)
+(4) BAKER STREET (Line: Jubilee  Westbound) 4.5
+(5) BAKER STREET (Line: Change: Jubilee  Westbound to Circle  (Outer) 2.00 mins)
+(6) GREAT PORTLAND STREET (Line: Circle  Outer) 4
+Total Journey Time: 9.75 minutes
+Route: MARBLE ARCH to GREAT PORTLAND STREET:
+(1) MARBLE ARCH (Line: Central  Eastbound)
+(2) BOND STREET (Line: Central  Eastbound) 1.25
+(3) BOND STREET (Line: Change: Central  Eastbound to Jubilee  (Westbound) 2.00 mins)
+(4) BAKER STREET (Line: Jubilee  Westbound) 4.5
+(5) BAKER STREET (Line: Change: Jubilee  Westbound to Circle  (Outer) 2.00 mins)
+(6) GREAT PORTLAND STREET (Line: Circle  Outer) 4
+Total Journey Time: 9.75 minutes
